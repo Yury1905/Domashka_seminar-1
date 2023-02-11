@@ -1,0 +1,15 @@
+E:\Sem 2\Domaska_seminar_1\obj\Debug\net7.0\Domaska_seminar_1.csproj.AssemblyReference.cache
+E:\Sem 2\Domaska_seminar_1\obj\Debug\net7.0\Domaska_seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem 2\Domaska_seminar_1\obj\Debug\net7.0\Domaska_seminar_1.AssemblyInfoInputs.cache
+E:\Sem 2\Domaska_seminar_1\obj\Debug\net7.0\Domaska_seminar_1.AssemblyInfo.cs
+E:\Sem 2\Domaska_seminar_1\obj\Debug\net7.0\Domaska_seminar_1.csproj.CoreCompileInputs.cache
+E:\Sem 2\Domaska_seminar_1\bin\Debug\net7.0\Domaska_seminar_1.exe
+E:\Sem 2\Domaska_seminar_1\bin\Debug\net7.0\Domaska_seminar_1.deps.json
+E:\Sem 2\Domaska_seminar_1\bin\Debug\net7.0\Domaska_seminar_1.runtimeconfig.json
+E:\Sem 2\Domaska_seminar_1\bin\Debug\net7.0\Domaska_seminar_1.dll
+E:\Sem 2\Domaska_seminar_1\bin\Debug\net7.0\Domaska_seminar_1.pdb
+E:\Sem 2\Domaska_seminar_1\obj\Debug\net7.0\Domaska_seminar_1.dll
+E:\Sem 2\Domaska_seminar_1\obj\Debug\net7.0\refint\Domaska_seminar_1.dll
+E:\Sem 2\Domaska_seminar_1\obj\Debug\net7.0\Domaska_seminar_1.pdb
+E:\Sem 2\Domaska_seminar_1\obj\Debug\net7.0\Domaska_seminar_1.genruntimeconfig.cache
+E:\Sem 2\Domaska_seminar_1\obj\Debug\net7.0\ref\Domaska_seminar_1.dll
